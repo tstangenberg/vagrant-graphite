@@ -1,0 +1,21 @@
+[submodule "modules/graphite"]
+	path = modules/graphite
+	url = https://github.com/tstangenberg/garethr-graphite.git
+[submodule "modules/python"]
+	path = modules/python
+	url = https://github.com/tstangenberg/puppet-python.git
+[submodule "modules/stdlib"]
+	path = modules/stdlib
+	url = https://github.com/tstangenberg/puppetlabs-stdlib.git
+[submodule "modules/apt"]
+	path = modules/apt
+	url = https://github.com/tstangenberg/puppetlabs-apt.git
+[submodule "modules/apache"]
+	path = modules/apache
+	url = https://github.com/tstangenberg/puppetlabs-apache.git
+[submodule "modules/concat"]
+	path = modules/concat
+	url = https://github.com/tstangenberg/puppetlabs-concat.git
+[submodule "modules/firewall"]
+	path = modules/firewall
+	url = https://github.com/tstangenberg/puppetlabs-firewall.git
