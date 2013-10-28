@@ -35,6 +35,7 @@ vagrant up --provision
 1. Configure your graphs 
 
 
+
 [1]: http://graphite.wikidot.com/
 [2]: http://www.vagrantup.com/
 [3]: http://puppetlabs.com/
