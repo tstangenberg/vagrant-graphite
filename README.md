@@ -41,7 +41,7 @@ vagrant up --provision
 [3]: http://puppetlabs.com/
 [4]: https://www.virtualbox.org 
 [5]: http://git-scm.com
-[6]: http://openjdk.java.net/
+[6]: http://www.python.org/
 [7]: http://www.iterm2.com
 [8]: http://localhost:9000
 [9]: http://httpd.apache.org/
